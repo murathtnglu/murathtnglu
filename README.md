@@ -4,16 +4,15 @@
 - 📫 How to reach me: murathtnglu@gmail.com
 - ✏️ I'm currently studying at Baskent University.
 
-![Codewars](https://github.r2v.ch/codewars?user=mhatunoglu&stroke=red)
-
 ## My Top Langs:
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathtnglu&layout=compact&theme=tokyonight)
 
-## Contact
-- [Linkedin](https://www.linkedin.com/in/damla-çim-39b6a2178/](https://www.linkedin.com/in/murat-hatunoglu-51169a251/))
+## Contact me:
+- [Linkedin](www.linkedin.com/in/murat-hatunoglu-51169a251)
 - [Twitter](https://twitter.com/murathatunogluu)
+
+![Codewars](https://github.r2v.ch/codewars?user=mhatunoglu&stroke=red)
+
 
 
 <!---
