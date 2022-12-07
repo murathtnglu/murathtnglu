@@ -7,10 +7,6 @@
 ## My Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathtnglu&layout=compact&theme=tokyonight)
 
-## Contact me:
-- [Linkedin](linkedin.com/in/murat-hatunoglu-51169a251)
-- [Twitter](https://twitter.com/murathatunogluu)
-
 ![Codewars](https://github.r2v.ch/codewars?user=mhatunoglu&stroke=red)
 
 
