@@ -1,6 +1,5 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm murathtnglu.
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 💻 I use daily ```.c```, ```.cpp``` and ```.py```
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - 📫 How to reach me: murathtnglu@gmail.com
 - ✏️ I'm currently studying at Baskent University.
 
