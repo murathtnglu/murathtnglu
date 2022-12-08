@@ -7,7 +7,7 @@
 ## My Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathtnglu&layout=compact&theme=tokyonight)
 
-![Codewars](https://github.r2v.ch/codewars?user=mhatunoglu&stroke=red)
+![Codewars](https://github.r2v.ch/codewars?user=mhatunoglu&stroke=blue)
 
 
 
