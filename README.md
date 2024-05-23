@@ -10,7 +10,7 @@
 ## My Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathtnglu&layout=compact&theme=tokyonight)
 <img src="https://www.codewars.com/users/mhatunoglu/badges/large"> <p>
- <img src="https://skillicons.dev/icons?i=c,cpp,py,java"> <p>
+ <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flutter"> <p>
  
 
 
