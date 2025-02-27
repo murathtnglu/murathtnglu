@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Murat </h1>
 <h3 align="center">
  
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 📫 How to reach me: murathtnglu@gmail.com
+- 👀 I’m interested in Machine Learning and Image Processing.
+- 📫 How to reach me: murathatunoglu.46@gmail.com
 - ✏️ I'm currently studying at Baskent University.
 
 
