@@ -4,7 +4,7 @@
 ### 👨‍💻 About Me  
 - 🎓 Computer Engineering graduate from **Başkent University**  
 - 🤖 Specialized in **Machine Learning, Deep Learning, and Medical Image Processing**  
-- 🛠️ Experience in **Full-Stack & Mobile Development** (Flutter, React, Node.js, PyQt5)  
+- 🛠️ Experience in **Full-Stack & Mobile Development** (Flutter, React, PyQt5)  
 - 📄 Published research at **ICHORA’25** on AR-assisted surgical navigation  
 
 ---
