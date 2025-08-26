@@ -1,21 +1,37 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Murat </h1>
-<h3 align="center">
- 
-- 👀 I’m interested in Machine Learning and Image Processing.
-- 📫 How to reach me: murathatunoglu.46@gmail.com
-- ✏️ I'm currently studying at Baskent University.
+# Hi 👋, I'm Murat Hatunoğlu  
+---
 
+### 👨‍💻 About Me  
+- 🎓 Computer Engineering graduate from **Başkent University**  
+- 🤖 Specialized in **Machine Learning, Deep Learning, and Medical Image Processing**  
+- 🛠️ Experience in **Full-Stack & Mobile Development** (Flutter, React, Node.js, PyQt5)  
+- 📄 Published research at **ICHORA’25** on AR-assisted surgical navigation  
 
+---
 
-## My Top Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murathtnglu&layout=compact&theme=tokyonight)
-<img src="https://www.codewars.com/users/mhatunoglu/badges/large"> <p>
- <img src="https://skillicons.dev/icons?i=c,cpp,py,java,flutter"> <p>
- 
+### Tech Stack  
 
+**Languages:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
+</p>
 
+**Frameworks & Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,spring,qt" />
+</p>
 
-<!---
-murathtnglu/murathtnglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI & ML:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Other Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase,git" />
+</p>
+
+---
+
+### 📫 Contact Me : contact@murathatunoglu.com
+---
